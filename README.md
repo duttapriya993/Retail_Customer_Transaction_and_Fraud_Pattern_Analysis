@@ -58,8 +58,9 @@ A fintech/retail company wants to analyze customer transactions to:
 
 ### 🐍 Python Insights:
 - Used pandas to load & clean merged dataset  
-- Performed fraud analysis by region  
-- Visualized fraud % by category & region (Seaborn)  
+- Performed fraud analysis by Region
+- Top 5 cities by Revenue  
+- Visualized fraud % by Region (Seaborn)  
 - Heatmap: Fraudulent transactions by Region & Category 🔥  
 
 ---
