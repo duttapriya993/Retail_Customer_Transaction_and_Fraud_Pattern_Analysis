@@ -1,0 +1,64 @@
+📃Cutomer Transaction Analysis with Fraud Detection Project Insights-
+Project Title: Customer Transaction Analysis with Fraud Detection
+Dataset Size: 7,500 transactions | 3 tables | 6,000+ customers
+
+📊 1. Overall Business Metrics
+◼Analyzed 7,500 transactions, generating a total revenue of ₹19.15 Cr
+
+◼Average transaction value: ₹25,539.97
+
+◼Total fraud cases detected: 364
+
+🌍 2. Region-wise Revenue & Fraud Overview
+◼East generated the highest revenue – ₹5.15 Cr (2,046 transactions)
+
+◼Followed by:
+
+ ◼South: ₹4.96 Cr
+
+ ◼North: ₹4.91 Cr
+
+ ◼West: ₹4.12 Cr
+
+◼Fraud count by region:
+
+  ◼East – 103 | North – 91 | South – 88 | West – 82
+
+🔎 Despite having the lowest revenue, the West region showed a high fraud concentration, indicating a potential risk area.
+
+🏬 3. Merchant Category Analysis
+◼Top 3 high-performing categories based on revenue:
+
+ ◼Beauty: ₹4.06 Cr (1,570 transactions)
+
+ ◼Clothing: ₹3.40 Cr
+
+ ◼Home Decor: ₹3.34 Cr
+
+◼Other categories like Books, Electronics, and Grocery each contributed over ₹2.5 Cr in revenue.
+
+👤 4. Top Customers Driving Sales
+◼Top 5 spenders alone contributed over ₹29 lakh
+
+ 1.CUST0387 – ₹6.24 lakh
+
+ 2.CUST0211 – ₹6.20 lakh
+
+ 3.CUST0059 – ₹5.77 lakh
+
+ 4.CUST0013 – ₹5.74 lakh
+
+ 5.CUST0073 – ₹5.72 lakh
+
+🔍 High-value customers are critical — loyalty and repeat spending patterns likely play a role.
+
+🔐 5. Fraud Detection Summary
+◼Netbanking was the riskiest payment method with 82 frauds, followed by Wallets (75) and Debit Cards (71)
+
+◼Beauty and Home Decor categories faced the highest fraud volumes
+
+◼Delhi and Kolkata were the top cities for fraud counts
+
+◼West region had the highest fraud percentage (5.05%), slightly ahead of East (5.03%)
+
+⚠️ These insights can guide fraud prevention efforts and risk-focused policy implementations.

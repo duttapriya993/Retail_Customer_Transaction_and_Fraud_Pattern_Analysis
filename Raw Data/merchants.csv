@@ -1,0 +1,251 @@
+MerchantID,MerchantName,Category,City,Country
+MERCH0001,Merchant_1,Clothing,Pune,India
+MERCH0002,Merchant_2,Electronics,Mumbai,India
+MERCH0003,Merchant_3,Beauty,Delhi,India
+MERCH0004,Merchant_4,Home Decor,Chennai,India
+MERCH0005,Merchant_5,Clothing,Delhi,India
+MERCH0006,Merchant_6,Home Decor,Kolkata,India
+MERCH0007,Merchant_7,Beauty,Bangalore,India
+MERCH0008,Merchant_8,Beauty,Chennai,India
+MERCH0009,Merchant_9,Grocery,Ahmedabad,India
+MERCH0010,Merchant_10,Books,Delhi,India
+MERCH0011,Merchant_11,Books,Chennai,India
+MERCH0012,Merchant_12,Clothing,Chennai,India
+MERCH0013,Merchant_13,Beauty,Chennai,India
+MERCH0014,Merchant_14,Grocery,Bangalore,India
+MERCH0015,Merchant_15,Grocery,Ahmedabad,India
+MERCH0016,Merchant_16,Home Decor,Pune,India
+MERCH0017,Merchant_17,Home Decor,Hyderabad,India
+MERCH0018,Merchant_18,Grocery,Chennai,India
+MERCH0019,Merchant_19,Home Decor,Mumbai,India
+MERCH0020,Merchant_20,Beauty,Pune,India
+MERCH0021,Merchant_21,Electronics,Kolkata,India
+MERCH0022,Merchant_22,Beauty,Bangalore,India
+MERCH0023,Merchant_23,Grocery,Delhi,India
+MERCH0024,Merchant_24,Grocery,Bangalore,India
+MERCH0025,Merchant_25,Beauty,Delhi,India
+MERCH0026,Merchant_26,Home Decor,Bangalore,India
+MERCH0027,Merchant_27,Home Decor,Delhi,India
+MERCH0028,Merchant_28,Books,Chennai,India
+MERCH0029,Merchant_29,Grocery,Hyderabad,India
+MERCH0030,Merchant_30,Clothing,Delhi,India
+MERCH0031,Merchant_31,Books,Ahmedabad,India
+MERCH0032,Merchant_32,Home Decor,Delhi,India
+MERCH0033,Merchant_33,Beauty,Mumbai,India
+MERCH0034,Merchant_34,Home Decor,Delhi,India
+MERCH0035,Merchant_35,Beauty,Mumbai,India
+MERCH0036,Merchant_36,Books,Kolkata,India
+MERCH0037,Merchant_37,Grocery,Chennai,India
+MERCH0038,Merchant_38,Home Decor,Mumbai,India
+MERCH0039,Merchant_39,Beauty,Hyderabad,India
+MERCH0040,Merchant_40,Grocery,Pune,India
+MERCH0041,Merchant_41,Clothing,Chennai,India
+MERCH0042,Merchant_42,Beauty,Mumbai,India
+MERCH0043,Merchant_43,Books,Chennai,India
+MERCH0044,Merchant_44,Clothing,Ahmedabad,India
+MERCH0045,Merchant_45,Clothing,Chennai,India
+MERCH0046,Merchant_46,Electronics,Chennai,India
+MERCH0047,Merchant_47,Home Decor,Kolkata,India
+MERCH0048,Merchant_48,Beauty,Hyderabad,India
+MERCH0049,Merchant_49,Clothing,Bangalore,India
+MERCH0050,Merchant_50,Electronics,Bangalore,India
+MERCH0051,Merchant_51,Books,Mumbai,India
+MERCH0052,Merchant_52,Grocery,Chennai,India
+MERCH0053,Merchant_53,Beauty,Mumbai,India
+MERCH0054,Merchant_54,Clothing,Kolkata,India
+MERCH0055,Merchant_55,Home Decor,Kolkata,India
+MERCH0056,Merchant_56,Electronics,Delhi,India
+MERCH0057,Merchant_57,Clothing,Ahmedabad,India
+MERCH0058,Merchant_58,Home Decor,Kolkata,India
+MERCH0059,Merchant_59,Clothing,Delhi,India
+MERCH0060,Merchant_60,Beauty,Hyderabad,India
+MERCH0061,Merchant_61,Beauty,Mumbai,India
+MERCH0062,Merchant_62,Beauty,Pune,India
+MERCH0063,Merchant_63,Books,Hyderabad,India
+MERCH0064,Merchant_64,Books,Kolkata,India
+MERCH0065,Merchant_65,Electronics,Hyderabad,India
+MERCH0066,Merchant_66,Beauty,Hyderabad,India
+MERCH0067,Merchant_67,Home Decor,Ahmedabad,India
+MERCH0068,Merchant_68,Clothing,Ahmedabad,India
+MERCH0069,Merchant_69,Grocery,Ahmedabad,India
+MERCH0070,Merchant_70,Home Decor,Hyderabad,India
+MERCH0071,Merchant_71,Books,Kolkata,India
+MERCH0072,Merchant_72,Books,Pune,India
+MERCH0073,Merchant_73,Home Decor,Chennai,India
+MERCH0074,Merchant_74,Books,Hyderabad,India
+MERCH0075,Merchant_75,Beauty,Delhi,India
+MERCH0076,Merchant_76,Electronics,Kolkata,India
+MERCH0077,Merchant_77,Clothing,Hyderabad,India
+MERCH0078,Merchant_78,Electronics,Pune,India
+MERCH0079,Merchant_79,Clothing,Chennai,India
+MERCH0080,Merchant_80,Clothing,Ahmedabad,India
+MERCH0081,Merchant_81,Electronics,Kolkata,India
+MERCH0082,Merchant_82,Home Decor,Bangalore,India
+MERCH0083,Merchant_83,Clothing,Chennai,India
+MERCH0084,Merchant_84,Electronics,Delhi,India
+MERCH0085,Merchant_85,Clothing,Hyderabad,India
+MERCH0086,Merchant_86,Grocery,Pune,India
+MERCH0087,Merchant_87,Home Decor,Bangalore,India
+MERCH0088,Merchant_88,Beauty,Pune,India
+MERCH0089,Merchant_89,Clothing,Bangalore,India
+MERCH0090,Merchant_90,Grocery,Kolkata,India
+MERCH0091,Merchant_91,Beauty,Bangalore,India
+MERCH0092,Merchant_92,Beauty,Delhi,India
+MERCH0093,Merchant_93,Clothing,Delhi,India
+MERCH0094,Merchant_94,Electronics,Mumbai,India
+MERCH0095,Merchant_95,Clothing,Delhi,India
+MERCH0096,Merchant_96,Grocery,Chennai,India
+MERCH0097,Merchant_97,Beauty,Bangalore,India
+MERCH0098,Merchant_98,Clothing,Delhi,India
+MERCH0099,Merchant_99,Electronics,Kolkata,India
+MERCH0100,Merchant_100,Clothing,Pune,India
+MERCH0101,Merchant_101,Home Decor,Ahmedabad,India
+MERCH0102,Merchant_102,Electronics,Pune,India
+MERCH0103,Merchant_103,Grocery,Mumbai,India
+MERCH0104,Merchant_104,Beauty,Pune,India
+MERCH0105,Merchant_105,Clothing,Bangalore,India
+MERCH0106,Merchant_106,Electronics,Mumbai,India
+MERCH0107,Merchant_107,Home Decor,Bangalore,India
+MERCH0108,Merchant_108,Electronics,Kolkata,India
+MERCH0109,Merchant_109,Books,Mumbai,India
+MERCH0110,Merchant_110,Home Decor,Hyderabad,India
+MERCH0111,Merchant_111,Grocery,Chennai,India
+MERCH0112,Merchant_112,Beauty,Chennai,India
+MERCH0113,Merchant_113,Grocery,Bangalore,India
+MERCH0114,Merchant_114,Clothing,Pune,India
+MERCH0115,Merchant_115,Electronics,Ahmedabad,India
+MERCH0116,Merchant_116,Books,Ahmedabad,India
+MERCH0117,Merchant_117,Home Decor,Hyderabad,India
+MERCH0118,Merchant_118,Home Decor,Mumbai,India
+MERCH0119,Merchant_119,Electronics,Hyderabad,India
+MERCH0120,Merchant_120,Books,Hyderabad,India
+MERCH0121,Merchant_121,Electronics,Pune,India
+MERCH0122,Merchant_122,Clothing,Ahmedabad,India
+MERCH0123,Merchant_123,Grocery,Mumbai,India
+MERCH0124,Merchant_124,Home Decor,Kolkata,India
+MERCH0125,Merchant_125,Clothing,Pune,India
+MERCH0126,Merchant_126,Grocery,Hyderabad,India
+MERCH0127,Merchant_127,Clothing,Hyderabad,India
+MERCH0128,Merchant_128,Books,Kolkata,India
+MERCH0129,Merchant_129,Home Decor,Hyderabad,India
+MERCH0130,Merchant_130,Electronics,Hyderabad,India
+MERCH0131,Merchant_131,Electronics,Hyderabad,India
+MERCH0132,Merchant_132,Grocery,Chennai,India
+MERCH0133,Merchant_133,Beauty,Pune,India
+MERCH0134,Merchant_134,Books,Delhi,India
+MERCH0135,Merchant_135,Grocery,Pune,India
+MERCH0136,Merchant_136,Beauty,Kolkata,India
+MERCH0137,Merchant_137,Clothing,Hyderabad,India
+MERCH0138,Merchant_138,Books,Pune,India
+MERCH0139,Merchant_139,Clothing,Chennai,India
+MERCH0140,Merchant_140,Home Decor,Ahmedabad,India
+MERCH0141,Merchant_141,Books,Kolkata,India
+MERCH0142,Merchant_142,Beauty,Bangalore,India
+MERCH0143,Merchant_143,Home Decor,Pune,India
+MERCH0144,Merchant_144,Electronics,Bangalore,India
+MERCH0145,Merchant_145,Beauty,Hyderabad,India
+MERCH0146,Merchant_146,Grocery,Chennai,India
+MERCH0147,Merchant_147,Electronics,Chennai,India
+MERCH0148,Merchant_148,Electronics,Pune,India
+MERCH0149,Merchant_149,Grocery,Kolkata,India
+MERCH0150,Merchant_150,Books,Kolkata,India
+MERCH0151,Merchant_151,Electronics,Chennai,India
+MERCH0152,Merchant_152,Beauty,Kolkata,India
+MERCH0153,Merchant_153,Home Decor,Chennai,India
+MERCH0154,Merchant_154,Electronics,Pune,India
+MERCH0155,Merchant_155,Beauty,Delhi,India
+MERCH0156,Merchant_156,Clothing,Chennai,India
+MERCH0157,Merchant_157,Beauty,Bangalore,India
+MERCH0158,Merchant_158,Home Decor,Kolkata,India
+MERCH0159,Merchant_159,Beauty,Chennai,India
+MERCH0160,Merchant_160,Grocery,Chennai,India
+MERCH0161,Merchant_161,Home Decor,Pune,India
+MERCH0162,Merchant_162,Books,Kolkata,India
+MERCH0163,Merchant_163,Clothing,Delhi,India
+MERCH0164,Merchant_164,Grocery,Pune,India
+MERCH0165,Merchant_165,Books,Delhi,India
+MERCH0166,Merchant_166,Beauty,Ahmedabad,India
+MERCH0167,Merchant_167,Home Decor,Pune,India
+MERCH0168,Merchant_168,Clothing,Kolkata,India
+MERCH0169,Merchant_169,Grocery,Mumbai,India
+MERCH0170,Merchant_170,Books,Kolkata,India
+MERCH0171,Merchant_171,Books,Kolkata,India
+MERCH0172,Merchant_172,Clothing,Delhi,India
+MERCH0173,Merchant_173,Beauty,Delhi,India
+MERCH0174,Merchant_174,Clothing,Kolkata,India
+MERCH0175,Merchant_175,Books,Kolkata,India
+MERCH0176,Merchant_176,Electronics,Kolkata,India
+MERCH0177,Merchant_177,Grocery,Delhi,India
+MERCH0178,Merchant_178,Clothing,Kolkata,India
+MERCH0179,Merchant_179,Books,Kolkata,India
+MERCH0180,Merchant_180,Beauty,Ahmedabad,India
+MERCH0181,Merchant_181,Books,Hyderabad,India
+MERCH0182,Merchant_182,Beauty,Mumbai,India
+MERCH0183,Merchant_183,Clothing,Bangalore,India
+MERCH0184,Merchant_184,Beauty,Mumbai,India
+MERCH0185,Merchant_185,Home Decor,Hyderabad,India
+MERCH0186,Merchant_186,Home Decor,Bangalore,India
+MERCH0187,Merchant_187,Home Decor,Pune,India
+MERCH0188,Merchant_188,Electronics,Kolkata,India
+MERCH0189,Merchant_189,Clothing,Hyderabad,India
+MERCH0190,Merchant_190,Books,Ahmedabad,India
+MERCH0191,Merchant_191,Books,Pune,India
+MERCH0192,Merchant_192,Electronics,Kolkata,India
+MERCH0193,Merchant_193,Beauty,Delhi,India
+MERCH0194,Merchant_194,Electronics,Chennai,India
+MERCH0195,Merchant_195,Beauty,Hyderabad,India
+MERCH0196,Merchant_196,Beauty,Delhi,India
+MERCH0197,Merchant_197,Grocery,Hyderabad,India
+MERCH0198,Merchant_198,Books,Ahmedabad,India
+MERCH0199,Merchant_199,Home Decor,Hyderabad,India
+MERCH0200,Merchant_200,Beauty,Delhi,India
+MERCH0201,Merchant_201,Grocery,Ahmedabad,India
+MERCH0202,Merchant_202,Books,Bangalore,India
+MERCH0203,Merchant_203,Home Decor,Mumbai,India
+MERCH0204,Merchant_204,Beauty,Kolkata,India
+MERCH0205,Merchant_205,Beauty,Hyderabad,India
+MERCH0206,Merchant_206,Electronics,Kolkata,India
+MERCH0207,Merchant_207,Electronics,Chennai,India
+MERCH0208,Merchant_208,Books,Delhi,India
+MERCH0209,Merchant_209,Home Decor,Kolkata,India
+MERCH0210,Merchant_210,Beauty,Delhi,India
+MERCH0211,Merchant_211,Books,Kolkata,India
+MERCH0212,Merchant_212,Books,Mumbai,India
+MERCH0213,Merchant_213,Clothing,Mumbai,India
+MERCH0214,Merchant_214,Electronics,Ahmedabad,India
+MERCH0215,Merchant_215,Home Decor,Mumbai,India
+MERCH0216,Merchant_216,Beauty,Ahmedabad,India
+MERCH0217,Merchant_217,Books,Mumbai,India
+MERCH0218,Merchant_218,Beauty,Mumbai,India
+MERCH0219,Merchant_219,Clothing,Mumbai,India
+MERCH0220,Merchant_220,Home Decor,Delhi,India
+MERCH0221,Merchant_221,Books,Hyderabad,India
+MERCH0222,Merchant_222,Beauty,Ahmedabad,India
+MERCH0223,Merchant_223,Electronics,Kolkata,India
+MERCH0224,Merchant_224,Clothing,Mumbai,India
+MERCH0225,Merchant_225,Home Decor,Delhi,India
+MERCH0226,Merchant_226,Clothing,Delhi,India
+MERCH0227,Merchant_227,Electronics,Delhi,India
+MERCH0228,Merchant_228,Home Decor,Ahmedabad,India
+MERCH0229,Merchant_229,Clothing,Hyderabad,India
+MERCH0230,Merchant_230,Grocery,Ahmedabad,India
+MERCH0231,Merchant_231,Electronics,Kolkata,India
+MERCH0232,Merchant_232,Electronics,Hyderabad,India
+MERCH0233,Merchant_233,Electronics,Bangalore,India
+MERCH0234,Merchant_234,Grocery,Pune,India
+MERCH0235,Merchant_235,Grocery,Delhi,India
+MERCH0236,Merchant_236,Beauty,Ahmedabad,India
+MERCH0237,Merchant_237,Books,Bangalore,India
+MERCH0238,Merchant_238,Clothing,Chennai,India
+MERCH0239,Merchant_239,Beauty,Ahmedabad,India
+MERCH0240,Merchant_240,Clothing,Mumbai,India
+MERCH0241,Merchant_241,Books,Pune,India
+MERCH0242,Merchant_242,Grocery,Mumbai,India
+MERCH0243,Merchant_243,Books,Hyderabad,India
+MERCH0244,Merchant_244,Grocery,Pune,India
+MERCH0245,Merchant_245,Books,Ahmedabad,India
+MERCH0246,Merchant_246,Beauty,Kolkata,India
+MERCH0247,Merchant_247,Home Decor,Bangalore,India
+MERCH0248,Merchant_248,Beauty,Kolkata,India
+MERCH0249,Merchant_249,Clothing,Ahmedabad,India
+MERCH0250,Merchant_250,Beauty,Hyderabad,India

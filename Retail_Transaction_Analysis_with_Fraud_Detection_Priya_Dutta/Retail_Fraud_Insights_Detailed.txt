@@ -1,0 +1,49 @@
+
+📊 Step 3.6 – Fraud Pattern Analysis (Final Insights)
+🔹 3.6.1 – Fraud by Payment Type
+◼Netbanking recorded the highest number of fraud cases (82), followed by:
+
+◼Wallet: 75
+
+◼Debit Card: 71
+
+◼UPI: 69
+
+◼Credit Card: 67
+
+◼Despite similar transaction volumes across all methods (~1500),
+ Netbanking stands out as the most fraud-prone, 
+suggesting a need for stronger multi-level authentication for online banking.
+
+🔹 3.6.2 – Fraud by Merchant Category
+◼The Beauty category faced the highest number of frauds (79 out of 1,570 transactions).
+
+◼Home Decor followed with 68, while Clothing, Books, and Electronics had 61, 60, and 50 frauds respectively.
+
+◼Grocery had the lowest fraud count (46), possibly due to lower-value transactions.
+
+◼Targeted fraud prevention should focus on Beauty and Home Decor merchants.
+
+🔹 3.6.3 – Fraud by City
+◼Delhi topped the list with 63 frauds, followed closely by Kolkata (61) and Hyderabad (54).
+
+◼Cities like Ahmedabad, Pune, and Bangalore also reported substantial fraud counts.
+
+◼Despite having fewer total transactions, Ahmedabad had a disproportionately high number of frauds
+ (46 out of 864 transactions).
+
+🔹 3.6.4 – Fraud Percentage by Region
+| Region    | Fraud %   |
+| --------- | --------- |
+| **West**  | **5.05%** |
+| **East**  | **5.03%** |
+| **North** | 4.73%     |
+| **South** | 4.61%     |
+
+◼While East had the highest number of fraud transactions (103), the West region had the highest fraud percentage, meaning frauds occurred more frequently.
+
+◼North and South regions showed slightly lower fraud ratios but still significant.
+
+◼Focused fraud detection models should prioritize West and East regions.
+
+
