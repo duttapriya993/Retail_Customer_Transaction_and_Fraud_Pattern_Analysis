@@ -108,3 +108,8 @@ A fintech/retail company wants to analyze customer transactions to:
 ## 💬 Resume Project Line
 
 Developed an end-to-end fraud detection project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
+
+---
+
+### 📄 License  
+Please refer to the main [MIT License](../LICENSE) in the root repository.
