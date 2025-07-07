@@ -41,10 +41,6 @@ A fintech/retail company wants to analyze customer transactions to:
 
 ---
 
-📲 **Note:** PDF preview may not load on mobile. Please download to view full report.
-
----
-
 ### 💡 Key Features:
 - Total Revenue, Orders, and Avg Transaction KPIs  
 - Fraud detection by region, payment method, city, category  
