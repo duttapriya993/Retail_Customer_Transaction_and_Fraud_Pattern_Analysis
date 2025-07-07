@@ -19,17 +19,21 @@ A fintech/retail company wants to analyze customer transactions to:
 ---
 
 ### 📂 Project Components:
-| Component | Description |
-|----------|-------------|
-| `transactions.csv` | Raw transaction data |
-| `customers.csv` | Customer demographic & signup info |
-| `merchants.csv` | Merchant details including city, category |
-| `Customer_Transaction_Merged_Cleaned.csv` | Final merged dataset (used in Python) |
-| `Retail_Insights_SQL_Priya_Dutta.sql` | SQL queries + insights |
-| `Retail_Insights_PowerBI_Priya_Dutta.pdf` | Final Power BI Dashboard (3 Pages) |
-| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook with fraud analysis |
-| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF version of Python analysis |
-| `README.md` | Project overview & documentation |
+
+| File/Folder | Description |
+|-------------|-------------|
+| `📁 Raw_Data/` | Original source data – `customers.csv`, `transactions.csv`, `merchants.csv` |
+| `📁 Cleaned_Data/` | Final cleaned & merged file – `Customer_Transaction_Merged_Cleaned.csv` |
+| `Retail_Insights_SQL_Priya_Dutta.sql` | SQL queries for EDA & fraud analysis |
+| `Retail_Insights_Fraud_Analysis.txt` | EDA insights summary from SQL analysis |
+| `Retail_Fraud_Insights_Detailed.txt` | In-depth fraud analysis report |
+| `Retail_Insights_Dashboard.pbix` | Final Power BI dashboard |
+| `Retail_Insights_Dashboard.pdf` | Exported PDF of Power BI dashboard |
+| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook (fraud detection & heatmap) |
+| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
+| `README.md` | Project overview, resume lines, and interview pitch |
+| `LICENSE` | MIT License for open-source use |
+| `file_0000000096ac6230bfe96831d6f5efd8.png` | GitHub project banner (displayed in repo) |
 
 ---
 
