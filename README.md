@@ -66,8 +66,6 @@ A fintech/retail company wants to analyze customer transactions to:
 
 ---
 
----
-
 ### 🔎 About the `IsFraud` Column
 
 The `IsFraud` column was already present in the dataset and served as a binary label:
