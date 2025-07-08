@@ -66,6 +66,19 @@ A fintech/retail company wants to analyze customer transactions to:
 
 ---
 
+### 🔎 About the `IsFraud` Column
+
+The `IsFraud` column was already present in the dataset and served as a binary label:
+
+- `1` = Fraudulent Transaction  
+- `0` = Genuine Transaction
+
+We did not generate this label using machine learning. Instead, this project focuses on **pattern detection using SQL, Power BI, and Python** to highlight suspicious activity, high-risk regions, and fraud-prone categories.  
+
+> This allows the analysis to be extended later into predictive modeling when machine learning is incorporated.
+
+---
+
 ### 🐍 Python Insights:
 - Used pandas to load & clean merged dataset  
 - Performed fraud analysis by Region
