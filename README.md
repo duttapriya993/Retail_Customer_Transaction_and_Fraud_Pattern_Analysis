@@ -3,6 +3,8 @@
 </p>
 # 🛍️ Retail Customer Transaction Analysis with Fraud Detection
 
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+
 ### 🔍 Business Case:
 A fintech/retail company wants to analyze customer transactions to:
 - Identify high-value customers 💰  
@@ -135,4 +137,5 @@ Developed an end-to-end fraud detection project using SQL, Python, and Power BI.
 ---
 
 ### 📄 License  
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share with proper attribution.
+This project is proprietary and protected by copyright law.
+Unauthorized copying, distribution, or reuse is strictly prohibited.
