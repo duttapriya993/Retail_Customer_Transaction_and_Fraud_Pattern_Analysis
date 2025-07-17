@@ -3,7 +3,9 @@
 </p>
 # 🛍️ Retail Customer Transaction Analysis with Fraud Detection
 
+
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+
 
 ### 🔍 Business Case:
 A fintech/retail company wants to analyze customer transactions to:
