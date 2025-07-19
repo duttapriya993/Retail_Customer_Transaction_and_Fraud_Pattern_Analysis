@@ -27,6 +27,7 @@ A fintech/retail company wants to analyze customer transactions to:
 | `📁 Raw_Data/` | Original source data – `customers.csv`, `transactions.csv`, `merchants.csv` |
 | `📁 Cleaned_Data/` | Final cleaned & merged file – `Customer_Transaction_Merged_Cleaned.csv` |
 | `Retail_Insights_SQL_Priya_Dutta.sql` | SQL queries for EDA & fraud analysis |
+| `Retail_Transaction_Analysis_with_Fraud_Detection_SQLQueries_Priya_Dutta.txt` | SQL queries for EDA & fraud analysis in text form|
 | `Retail_Insights_Fraud_Analysis.txt` | EDA insights summary from SQL analysis |
 | `Retail_Fraud_Insights_Detailed.txt` | In-depth fraud analysis report |
 | `Retail_Insights_Dashboard.pbix` | Final Power BI dashboard |
