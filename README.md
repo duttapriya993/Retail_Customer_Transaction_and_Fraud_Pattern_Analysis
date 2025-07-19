@@ -8,7 +8,7 @@
 ### 🔍 Business Case:
 A fintech/retail company wants to analyze customer transactions to:
 - Identify high-value customers 💰  
-- Detect suspicious patterns 🚨  
+- Analyse suspicious patterns 🚨  
 - Provide business teams a dashboard for actionable insights 📊
 
 ---
@@ -36,7 +36,7 @@ A fintech/retail company wants to analyze customer transactions to:
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
 | `README.md` | Project overview, resume lines, and interview pitch |
 | `LICENSE` | MIT License for open-source use |
-| `file_0000000096ac6230bfe96831d6f5efd8.png` | GitHub project banner (displayed in repo) |
+| `Retail_Customer_Transaction_and_Fraud_Pattern_Analsis_Banner.png` | GitHub project banner (displayed in repo) |
 
 ---
 
@@ -46,7 +46,7 @@ A fintech/retail company wants to analyze customer transactions to:
 
 ### 💡 Key Features:
 - Total Revenue, Orders, and Avg Transaction KPIs  
-- Fraud detection by region, payment method, city, category  
+- Fraud analysis by region, payment method, city, category  
 - Top 5 customers & merchants  
 - Monthly sales trend 📈  
 - Regional heatmaps 🔥 (Python)  
@@ -92,12 +92,12 @@ We did not generate this label using machine learning. Instead, this project foc
 ---
 
 ### 💼 Resume Description (2–3 lines):
-> **Retail Customer Transaction Analysis** using SQL, Python, and Power BI. Built an end-to-end project to detect fraud patterns, analyze top customers/merchants, and visualize insights through a dynamic dashboard.
+> **Retail Customer Transaction Analysis** using SQL, Python, and Power BI. Built an end-to-end project to analyse fraud patterns, top customers/merchants, and visualize insights through a dynamic dashboard.
 
 ---
 
 ### 🗣️ Interview Elevator Pitch:
-> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud detection and visual analysis using Seaborn. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
+> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud Pattern and visual analysis using Seaborn. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
 
 ---
 
@@ -133,7 +133,7 @@ We did not generate this label using machine learning. Instead, this project foc
 
 ## 💬 Resume Project Line
 
-Developed an end-to-end fraud detection project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
+Developed an end-to-end fraud analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
 
 ---
 
