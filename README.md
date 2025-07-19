@@ -2,7 +2,7 @@
   <img src="https://github.com/duttapriya993/Retail_Transaction_Insights/blob/main/Retail_Transaction_Analysis_with_Fraud_Detection_Priya_Dutta/file_0000000096ac6230bfe96831d6f5efd8.png?raw=true" width="100%">
 </p>
 
-# Retail Customer Transaction Analysis with Fraud Pattern Analysis
+# Retail Customer Transaction & Fraud Pattern Analysis
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 
 ### 🔍 Business Case:
