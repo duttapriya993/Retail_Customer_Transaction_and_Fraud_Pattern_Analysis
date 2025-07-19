@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/duttapriya993/Retail_Transaction_Insights/blob/main/Retail_Transaction_Analysis_with_Fraud_Detection_Priya_Dutta/file_0000000096ac6230bfe96831d6f5efd8.png?raw=true" width="100%">
+</p>
 # 🛍️ Retail Customer Transaction Analysis with Fraud Detection
 
 ### 🔍 Business Case:
@@ -17,17 +19,25 @@ A fintech/retail company wants to analyze customer transactions to:
 ---
 
 ### 📂 Project Components:
-| Component | Description |
-|----------|-------------|
-| `transactions.csv` | Raw transaction data |
-| `customers.csv` | Customer demographic & signup info |
-| `merchants.csv` | Merchant details including city, category |
-| `Customer_Transaction_Merged_Cleaned.csv` | Final merged dataset (used in Python) |
-| `Retail_Insights_SQL_Priya_Dutta.sql` | SQL queries + insights |
-| `Retail_Insights_PowerBI_Priya_Dutta.pdf` | Final Power BI Dashboard (3 Pages) |
-| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook with fraud analysis |
-| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF version of Python analysis |
-| `README.md` | Project overview & documentation |
+
+| File/Folder | Description |
+|-------------|-------------|
+| `📁 Raw_Data/` | Original source data – `customers.csv`, `transactions.csv`, `merchants.csv` |
+| `📁 Cleaned_Data/` | Final cleaned & merged file – `Customer_Transaction_Merged_Cleaned.csv` |
+| `Retail_Insights_SQL_Priya_Dutta.sql` | SQL queries for EDA & fraud analysis |
+| `Retail_Insights_Fraud_Analysis.txt` | EDA insights summary from SQL analysis |
+| `Retail_Fraud_Insights_Detailed.txt` | In-depth fraud analysis report |
+| `Retail_Insights_Dashboard.pbix` | Final Power BI dashboard |
+| `Retail_Insights_Dashboard.pdf` | Exported PDF of Power BI dashboard |
+| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook (fraud detection & heatmap) |
+| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
+| `README.md` | Project overview, resume lines, and interview pitch |
+| `LICENSE` | MIT License for open-source use |
+| `file_0000000096ac6230bfe96831d6f5efd8.png` | GitHub project banner (displayed in repo) |
+
+---
+
+📲 **Note:** PDF preview may not load on mobile. Please download to view full report.
 
 ---
 
@@ -56,10 +66,24 @@ A fintech/retail company wants to analyze customer transactions to:
 
 ---
 
+### 🔎 About the `IsFraud` Column
+
+The `IsFraud` column was already present in the dataset and served as a binary label:
+
+- `1` = Fraudulent Transaction  
+- `0` = Genuine Transaction
+
+We did not generate this label using machine learning. Instead, this project focuses on **pattern detection using SQL, Power BI, and Python** to highlight suspicious activity, high-risk regions, and fraud-prone categories.  
+
+> This allows the analysis to be extended later into predictive modeling when machine learning is incorporated.
+
+---
+
 ### 🐍 Python Insights:
 - Used pandas to load & clean merged dataset  
-- Performed fraud analysis by region  
-- Visualized fraud % by category & region (Seaborn)  
+- Performed fraud analysis by Region
+- Top 5 cities by Revenue 
+- Visualized fraud % Region (Seaborn)  
 - Heatmap: Fraudulent transactions by Region & Category 🔥  
 
 ---
@@ -107,3 +131,8 @@ A fintech/retail company wants to analyze customer transactions to:
 ## 💬 Resume Project Line
 
 Developed an end-to-end fraud detection project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
+
+---
+
+### 📄 License  
+Please refer to the main [MIT License](../LICENSE) in the root repository.
