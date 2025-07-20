@@ -18,7 +18,7 @@ A fintech/retail company wants to analyze customer transactions to:
 ### 🛠️ Tools Used:
 - **SQL** – Data cleaning, joins, fraud flag analysis  
 - **Power BI** – KPI dashboards, top performers, fraud analytics  
-- **Python (Pandas, Seaborn)** – Fraud patterns, customer & regional insights  
+- **Python (Pandas, Seaborn,Matplotlib)** – Fraud patterns, customer & regional insights  
 
 ---
 
@@ -29,7 +29,7 @@ A fintech/retail company wants to analyze customer transactions to:
 | `📁 Raw_Data/` | Original source data – `customers.csv`, `transactions.csv`, `merchants.csv` |
 | `📁 Cleaned_Data/` | Final cleaned & merged file – `Customer_Transaction_Merged_Cleaned.csv` |
 | `Retail_Insights_SQL_Priya_Dutta.sql` | SQL queries for EDA & fraud analysis |
-| `Retail_Transaction_Analysis_with_Fraud_Detection_SQLQueries_Priya_Dutta.txt` | SQL queries for EDA & fraud analysis in text form|
+| `Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_SQLQueries_Priya_Dutta.txt` | SQL queries for EDA & fraud analysis in text format|
 | `Retail_Insights_Fraud_Analysis.txt` | EDA insights summary from SQL analysis |
 | `Retail_Fraud_Insights_Detailed.txt` | In-depth fraud analysis report |
 | `Retail_Insights_Dashboard.pbix` | Final Power BI dashboard |
@@ -38,7 +38,7 @@ A fintech/retail company wants to analyze customer transactions to:
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
 | `README.md` | Project overview, resume lines, and interview pitch |
 | `LICENSE` | MIT License for open-source use |
-| `Retail_Customer_Transaction_and_Fraud_Pattern_Analsis_Banner.png` | GitHub project banner (displayed in repo) |
+| `Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Banner.png` | GitHub project banner (displayed in repo) |
 
 ---
 
@@ -78,7 +78,7 @@ The `IsFraud` column was already present in the dataset and served as a binary l
 - `1` = Fraudulent Transaction  
 - `0` = Genuine Transaction
 
-We did not generate this label using machine learning. Instead, this project focuses on **pattern detection using SQL, Power BI, and Python** to highlight suspicious activity, high-risk regions, and fraud-prone categories.  
+We did not generate this label using machine learning. Instead, this project focuses on **fraud pattern analysis using SQL, Power BI, and Python** to highlight suspicious activity, high-risk regions, and fraud-prone categories.  
 
 ---
 
@@ -94,12 +94,12 @@ We did not generate this label using machine learning. Instead, this project foc
 ---
 
 ### 💼 Resume Description (2–3 lines):
-> **Retail Customer Transaction Analysis** using SQL, Python, and Power BI. Built an end-to-end project to analyse fraud patterns, top customers/merchants, and visualize insights through a dynamic dashboard.
+> **Retail Customer Transaction and Fraud Pattern Analysis** using SQL, Python, and Power BI. Built an end-to-end project to analyse fraud patterns, top customers/merchants, and visualize insights through a dynamic dashboard.
 
 ---
 
 ### 🗣️ Interview Elevator Pitch:
-> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud Pattern and visual analysis using Seaborn. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
+> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn and Matplotlib. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
 
 ---
 
@@ -135,7 +135,7 @@ We did not generate this label using machine learning. Instead, this project foc
 
 ## 💬 Resume Project Line
 
-Developed an end-to-end fraud analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
+Developed an end-to-end retail customer transaction and fraud pattern analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
 
 ---
 
