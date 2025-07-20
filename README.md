@@ -37,7 +37,7 @@ A fintech/retail company wants to analyze customer transactions to:
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook (fraud pattern analysis & heatmap) |
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
 | `README.md` | Project overview, resume lines, and interview pitch |
-| `LICENSE` | Proprietary License (All Rights Reserved |
+| `LICENSE` | Proprietary License (All Rights Reserved) |
 | `Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Banner.png` | GitHub project banner (displayed in repo) |
 
 ---
