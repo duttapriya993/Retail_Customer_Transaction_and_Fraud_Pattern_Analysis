@@ -1,5 +1,5 @@
-📃Cutomer Transaction Analysis with Fraud Detection Project Insights-
-Project Title: Customer Transaction Analysis with Fraud Detection
+📃Retail Cutomer Transaction and Fraud Pattern Analysis Project Insights-
+Project Title: Retail Customer Transaction and Fraud Pattern Analysis 
 Dataset Size: 7,500 transactions | 3 tables | 6,000+ customers
 
 📊 1. Overall Business Metrics
@@ -52,7 +52,7 @@ Dataset Size: 7,500 transactions | 3 tables | 6,000+ customers
 
 🔍 High-value customers are critical — loyalty and repeat spending patterns likely play a role.
 
-🔐 5. Fraud Detection Summary
+🔐 5. Fraud Analysis Summary
 ◼Netbanking was the riskiest payment method with 82 frauds, followed by Wallets (75) and Debit Cards (71)
 
 ◼Beauty and Home Decor categories faced the highest fraud volumes
