@@ -7,18 +7,20 @@
 
 # Retail Customer Transaction & Fraud Pattern Analysis
 
-### 🔍 Business Case:
-A fintech/retail company wants to analyse customer transactions to:
-- Identify high-value customers 💰  
-- Analyse suspicious patterns 🚨  
-- Provide business teams a dashboard for actionable insights 📊
+### 📌 Business Case
+This project simulates a **real-world retail/fintech scenario** with a focus on analyzing customer transactions and uncovering fraud patterns.  
+The primary objectives were to:
+- Analyze suspicious patterns 🚨
+- Identify high-revenue customers and merchants
+- Visualize KPIs for revenue, transactions, and fraud trends
+
 
 ---
 
-### 🛠️ Tools Used:
-- **SQL** – Data cleaning, joins, fraud flag analysis  
-- **Power BI** – KPI dashboards, top performers, fraud analytics  
-- **Python (Pandas, Seaborn, Matplotlib)** – Fraud patterns, customer & regional insights  
+### 🧰 Tools Used
+- **SQL (MS SQL Server)** – Data cleaning, joins, aggregations, fraud pattern queries
+- **Power BI** – Interactive dashboards (KPIs, filters, fraud visuals)
+- **Python (Pandas, Seaborn, Matplotlib)** – Fraud pattern analysis, heatmaps, and visual trends
 
 ---
 
@@ -56,18 +58,20 @@ A fintech/retail company wants to analyse customer transactions to:
 
 ---
 
-### 🧠 SQL Analysis Summary:
-- Cleaned & joined 3 datasets  
-- Performed fraud count, fraud % by region, merchant type, etc.  
-- Used `CASE`, `GROUP BY`, `JOIN`, and aggregation functions  
-- Derived insights like top regions, categories, fraud-prone areas  
+### 🗂️ SQL Analysis Summary
+- Total Transactions: **7,500**
+- Total Revenue: **₹19.15 Cr**
+- Fraud Transactions: **364 (4.8%)**
+- Highest Revenue Region: **East (₹5.15 Cr)**
+- Top Customer: **CUST0387**
+- Fraud-Prone Payment Types: **Wallets & Netbanking**
 
 ---
 
-### 📊 Power BI Dashboard Pages:
-1. **Business Overview** – Revenue, avg transaction, category insights  
-2. **Top Performers** – Top customers, merchants, monthly trend  
-3. **Fraud Analytics** – Fraud counts by region,payment type,merchant catrgory & cities
+### 📊 Power BI Dashboard Pages
+1. **Business Overview** – KPIs: Total Revenue, Transactions, Avg Transaction Value  
+2. **Top Performers** – Top 5 Customers & Merchants by Revenue, Monthly Revenue Trend  
+3. **Fraud Analytics** – Fraud counts by region, payment type, merchant category & cities  
 
 ---
 
