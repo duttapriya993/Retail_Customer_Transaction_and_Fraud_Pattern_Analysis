@@ -8,7 +8,7 @@
 # Retail Customer Transaction & Fraud Pattern Analysis
 
 ### 🔍 Business Case:
-A fintech/retail company wants to analyze customer transactions to:
+A fintech/retail company wants to analyse customer transactions to:
 - Identify high-value customers 💰  
 - Analyse suspicious patterns 🚨  
 - Provide business teams a dashboard for actionable insights 📊
@@ -18,7 +18,7 @@ A fintech/retail company wants to analyze customer transactions to:
 ### 🛠️ Tools Used:
 - **SQL** – Data cleaning, joins, fraud flag analysis  
 - **Power BI** – KPI dashboards, top performers, fraud analytics  
-- **Python (Pandas, Seaborn,Matplotlib)** – Fraud patterns, customer & regional insights  
+- **Python (Pandas, Seaborn, Matplotlib)** – Fraud patterns, customer & regional insights  
 
 ---
 
@@ -67,7 +67,7 @@ A fintech/retail company wants to analyze customer transactions to:
 ### 📊 Power BI Dashboard Pages:
 1. **Business Overview** – Revenue, avg transaction, category insights  
 2. **Top Performers** – Top customers, merchants, monthly trend  
-3. **Fraud Analytics** – Region-wise fraud %, payment-type breakdown, city fraud map  
+3. **Fraud Analytics** – Fraud counts by region,payment type,merchant catrgory & cities
 
 ---
 
@@ -99,7 +99,7 @@ We did not generate this label using machine learning. Instead, this project foc
 ---
 
 ### 🗣️ Interview Elevator Pitch:
-> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn and Matplotlib. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
+> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyse 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn and Matplotlib. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
 
 ---
 
@@ -135,7 +135,7 @@ We did not generate this label using machine learning. Instead, this project foc
 
 ## 💬 Resume Project Line
 
-Developed an end-to-end retail customer transaction and fraud pattern analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
+Developed an end-to-end retail customer transaction and fraud pattern analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analysed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
 
 ---
 
