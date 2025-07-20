@@ -98,12 +98,12 @@ We did not generate this label using machine learning. Instead, this project foc
 ---
 
 ### 💼 Resume Description (2–3 lines):
-> **Retail Customer Transaction and Fraud Pattern Analysis** using SQL, Python, and Power BI. Built an end-to-end project to analyse fraud patterns, top customers/merchants, and visualize insights through a dynamic dashboard.
+> **Retail Customer Transaction and Fraud Pattern Analysis** using SQL, Python, and Power BI. Built an end-to-end project to analyze fraud patterns, top customers/merchants, and visualize insights through a dynamic dashboard.
 
 ---
 
 ### 🗣️ Interview Elevator Pitch:
-> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyse 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn and Matplotlib. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
+> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn and Matplotlib. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
 
 ---
 
@@ -139,7 +139,7 @@ We did not generate this label using machine learning. Instead, this project foc
 
 ## 💬 Resume Project Line
 
-Developed an end-to-end retail customer transaction and fraud pattern analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analysed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
+Developed an end-to-end retail customer transaction and fraud pattern analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
 
 ---
 
