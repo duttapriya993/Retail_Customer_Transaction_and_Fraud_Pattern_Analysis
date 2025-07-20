@@ -32,8 +32,8 @@ A fintech/retail company wants to analyze customer transactions to:
 | `Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_SQLQueries_Priya_Dutta.txt` | SQL queries for EDA & fraud analysis in text format|
 | `Retail_Insights_Fraud_Analysis.txt` | EDA insights summary from SQL analysis |
 | `Retail_Fraud_Insights_Detailed.txt` | In-depth fraud analysis report |
-| `Retail_Insights_Dashboard.pbix` | Final Power BI dashboard |
-| `Retail_Insights_Dashboard.pdf` | Exported PDF of Power BI dashboard |
+| `Retail_Insights_with_Fraud_Analysis_Priya_Dutta.pbix` | Final Power BI dashboard |
+| `Retail_Insights_with_Fraud_Analysis_Priya_Dutta.pdf` | Exported PDF of Power BI dashboard |
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook (fraud detection & heatmap) |
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
 | `README.md` | Project overview, resume lines, and interview pitch |
