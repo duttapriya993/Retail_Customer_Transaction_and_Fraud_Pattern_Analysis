@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://github.com/duttapriya993/Retail_Transaction_Insights/blob/main/Retail_Transaction_Analysis_with_Fraud_Detection_Priya_Dutta/Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Banner.png?raw=true" width="100%">
+  <img src="Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Banner.png" width="100%">
 </p>
 
-# Retail Customer Transaction & Fraud Pattern Analysis
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+
+
+# Retail Customer Transaction & Fraud Pattern Analysis
 
 ### 🔍 Business Case:
 A fintech/retail company wants to analyze customer transactions to:
