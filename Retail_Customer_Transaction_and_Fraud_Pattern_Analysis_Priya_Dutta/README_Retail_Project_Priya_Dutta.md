@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/duttapriya993/Retail_Transaction_Insights/blob/main/Retail_Transaction_Analysis_with_Fraud_Detection_Priya_Dutta/file_0000000096ac6230bfe96831d6f5efd8.png?raw=true" width="100%">
+  <img src="https://github.com/duttapriya993/Retail_Customer_Transaction_and_Fraud_Pattern_Analysis/blob/main/Retail_Customer_Transaction_and_Fraud_Pattern_Analsis_Priya_Dutta/Retail_Customer_Transaction_and_Fraud_Pattern_Analsis_Banner.png?raw=true" width="100%">
 </p>
 # 🛍️ Retail Customer Transaction Analysis with Fraud Detection
 
