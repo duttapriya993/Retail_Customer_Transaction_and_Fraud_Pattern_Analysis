@@ -99,7 +99,7 @@ We did not generate this label using machine learning. Instead, this project foc
 ---
 
 ### 🗣️ Interview Elevator Pitch:
-> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn and Matplotlib. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
+> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
 
 ---
 
