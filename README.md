@@ -18,7 +18,7 @@ A fintech/retail company wants to analyze customer transactions to:
 ### 🛠️ Tools Used:
 - **SQL** – Data cleaning, joins, fraud flag analysis  
 - **Power BI** – KPI dashboards, top performers, fraud analytics  
-- **Python (Pandas, Seaborn)** – Fraud patterns, customer & regional insights  
+- **Python (Pandas, Seaborn,Matplotlib)** – Fraud patterns, customer & regional insights  
 
 ---
 
@@ -38,7 +38,7 @@ A fintech/retail company wants to analyze customer transactions to:
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
 | `README.md` | Project overview, resume lines, and interview pitch |
 | `LICENSE` | MIT License for open-source use |
-| `Retail_Customer_Transaction_and_Fraud_Pattern_Analsis_Banner.png` | GitHub project banner (displayed in repo) |
+| `Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Banner.png` | GitHub project banner (displayed in repo) |
 
 ---
 
@@ -99,7 +99,7 @@ We did not generate this label using machine learning. Instead, this project foc
 ---
 
 ### 🗣️ Interview Elevator Pitch:
-> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
+> “This project simulates a real-world fintech scenario. I started with SQL to clean and analyze 7500 customer transactions. Then, I used Power BI to create a professional dashboard for decision-makers. Finally, I added a Python notebook for fraud analysis and visual exploration using Seaborn and Matplotlib. The project reflects how I can combine data engineering, analytics, and visualization tools to solve real business problems.”
 
 ---
 
