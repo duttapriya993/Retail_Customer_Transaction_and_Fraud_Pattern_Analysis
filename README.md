@@ -34,7 +34,7 @@ A fintech/retail company wants to analyze customer transactions to:
 | `Retail_Fraud_Insights_Detailed.txt` | In-depth fraud analysis report |
 | `Retail_Insights_with_Fraud_Analysis_Priya_Dutta.pbix` | Final Power BI dashboard |
 | `Retail_Insights_with_Fraud_Analysis_Priya_Dutta.pdf` | Exported PDF of Power BI dashboard |
-| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook (fraud detection & heatmap) |
+| `Retail_Fraud_Transaction_Analysis_Priya_Dutta.ipynb` | Python notebook (fraud pattern analysis & heatmap) |
 | `Retail_Fraud_Transaction_Analysis_Priya_Dutta.pdf` | Exported PDF of Python notebook |
 | `README.md` | Project overview, resume lines, and interview pitch |
 | `LICENSE` | MIT License for open-source use |
