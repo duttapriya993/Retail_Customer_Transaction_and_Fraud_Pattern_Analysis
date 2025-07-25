@@ -64,7 +64,7 @@ The primary objectives were to:
 - Fraud Transactions: **364 (4.8%)**
 - Highest Revenue Region: **East (₹5.15 Cr)**
 - Top Customer: **CUST0387**
-- Fraud-Prone Payment Types: **Wallets & Netbanking**
+- Fraud-Prone Payment Types: **Netbanking & Wallets**
 
 ---
 
