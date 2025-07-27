@@ -53,7 +53,7 @@ The primary objectives were to:
 - Fraud analysis by region, payment method, city, category  
 - Top 5 customers & merchants  
 - Monthly sales trend 📈  
-- Regional heatmaps 🔥 (Python)  
+- Heatmap🔥- Category*Region (Python)  
 - Interactive filters for deeper insights  
 
 ---
