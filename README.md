@@ -52,7 +52,6 @@ The primary objectives were to:
 - Total Revenue, Orders, and Avg Transaction KPIs  
 - Fraud analysis by region, payment method, city, category  
 - Top 5 customers & merchants  
-- Monthly sales trend 📈  
 - Heatmap🔥- Category*Region (Python)  
 - Interactive filters for deeper insights  
 
