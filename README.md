@@ -142,6 +142,12 @@ Developed an end-to-end retail customer transaction and fraud pattern analysis p
 
 ---
 
+### 🤖 AI Tools Used
+
+I used ChatGPT while working on this project — mainly to get help in understanding queries, fixing errors, and writing some parts faster. Everything was checked and done by me with full understanding.
+
+---
+
 ### 🔒 License  
 This project is licensed under a **custom proprietary license**. Please refer to the [LICENSE](./LICENSE) file for detailed terms and usage restrictions.
 
