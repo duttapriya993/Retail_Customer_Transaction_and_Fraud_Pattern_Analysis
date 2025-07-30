@@ -115,7 +115,7 @@ We did not generate this label using machine learning. Instead, this project foc
 
 ---
 
-## 📈 Sample Insights
+### 📈 Sample Insights
 
 > Based on 7,500 transaction records from 6 regions & 6 product categories:
 
@@ -128,7 +128,7 @@ We did not generate this label using machine learning. Instead, this project foc
 
 ---
 
-📑 Project Summary Slides
+###📑 Project Summary Slides
 
 You can view the complete walkthrough of this project in a concise, carousel-style PDF:
 
@@ -136,7 +136,7 @@ You can view the complete walkthrough of this project in a concise, carousel-sty
 
 ---
 
-## 🧑‍💼 Author
+### 🧑‍💼 Author
 
 **Priya Dutta**  
 🎓 Executive Certification in Data Science with AI Specialization (IIT Guwahati via AnalytixLabs)  
@@ -146,7 +146,7 @@ You can view the complete walkthrough of this project in a concise, carousel-sty
 
 ---
 
-## 💬 Resume Project Line
+### 💬 Resume Project Line
 
 Developed an end-to-end retail customer transaction and fraud pattern analysis project using SQL, Python, and Power BI. Cleaned & joined multi-source data (7,500+ records), analyzed fraud trends, and built a dashboard showing region-wise revenue, top customers, and suspicious patterns.
 
