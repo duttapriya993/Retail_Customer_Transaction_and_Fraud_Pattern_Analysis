@@ -41,6 +41,9 @@ The primary objectives were to:
 | `README.md` | Project overview, resume lines, and interview pitch |
 | `LICENSE` | Proprietary License (All Rights Reserved) |
 | `Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Banner.png` | GitHub project banner (displayed in repo) |
+|
+'Retail_Fraud_Analysis_Carasoul.pdf' |
+Project Summary PDF |
 
 ---
 
