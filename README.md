@@ -142,6 +142,6 @@ Developed an end-to-end retail customer transaction and fraud pattern analysis p
 
 ---
 
-### 📄 License  
-This project is proprietary and protected by copyright law.
-Unauthorized copying, distribution, or reuse is strictly prohibited.
+### 🔒 License  
+This project is licensed under a **custom proprietary license**. Please refer to the [LICENSE](./LICENSE) file for detailed terms and usage restrictions.
+
