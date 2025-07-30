@@ -134,7 +134,7 @@ We did not generate this label using machine learning. Instead, this project foc
 
 You can view the complete walkthrough of this project in a concise, carousel-style PDF:
 
-| [`Retail_Fraud_Analysis_Carousel.pdf`](https://github.com/duttapriya993/Retail_Customer_Transaction_and_Fraud_Pattern_Analysis/blob/main/Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Priya_Dutta/Retail_Fraud_Analysis_Carousel.pdf) | Linked carousel slides explaining tools used, key insights, and visuals |
+| [`Retail_Fraud_Analysis_Carousel.pdf`](Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Priya_Dutta/Retail_Fraud_Analysis_Carousel.pdf) | Linked carousel slides explaining tools used, key insights, and visuals |
 
 ---
 
