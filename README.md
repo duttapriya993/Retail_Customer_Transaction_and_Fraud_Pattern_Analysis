@@ -43,6 +43,7 @@ The primary objectives were to:
 | `Retail_Customer_Transaction_and_Fraud_Pattern_Analysis_Banner.png` | GitHub project banner (displayed in repo) |
 |
 `Retail_Fraud_Analysis_Carousel.pdf` | Project Summary PDF (GitHub presentation) |
+|
 
 ---
 
